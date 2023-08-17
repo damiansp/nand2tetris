@@ -3,3 +3,7 @@
 .DS_Store
 
 tools/
+*.cmp
+*.out
+*.tst
+
